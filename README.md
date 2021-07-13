@@ -5,11 +5,9 @@
 `Udacity` is collaborating with `SUSE`, a global leader in true open source solutions, to empower developers and operations specialists to meet today's high growth career challenges. This repository consists of my learning from the course along with some resources relating to `Software Development`, `Microservices`, `Container Management`, etc. Hope it helps to built a better understanding of the concepts!!
 
 
-
-Feeling stuck amidst the course? Feel free to refer this repository or reach out to me on Slack!
-
 ✨| Udacity SUSE Cloud Native Fundamentals Scholarship Program Nanodegree Program | Status
 --- | ---| ---
+0 | [Welcome to the Cloud Native Fundamentals Scholarship Program](https://github.com/sanikamal/suse-cloud-native-foundations-scholarship-2021/blob/main/lesson-pdf/welcome.pdf) |  &#9745;
 1 | Introduction to Cloud Native Fundamentals |  &#9745;
 2 | Architecture Consideration for Cloud Native Applications |  &#9745;
 3 | Container Orchestration with Kubernetes |  &#9745;
