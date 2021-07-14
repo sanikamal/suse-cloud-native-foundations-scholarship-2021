@@ -10,7 +10,7 @@
 0 | [Welcome to the Cloud Native Fundamentals Scholarship Program](https://github.com/sanikamal/suse-cloud-native-foundations-scholarship-2021/blob/main/lesson-pdf/welcome.pdf) |  &#9745;
 1 | [Introduction to Cloud Native Fundamentals](https://github.com/sanikamal/suse-cloud-native-foundations-scholarship-2021/blob/main/lesson-pdf/lesson-1.pdf) |  &#9745;
 2 | [Architecture Consideration for Cloud Native Applications](https://github.com/sanikamal/suse-cloud-native-foundations-scholarship-2021/blob/main/lesson-pdf/lesson-2.pdf) |  &#9745;
-3 | Container Orchestration with Kubernetes |  &#9745;
+3 | [Container Orchestration with Kubernetes](https://github.com/sanikamal/suse-cloud-native-foundations-scholarship-2021/blob/main/lesson-pdf/lesson-3.pdf) |  &#9745;
 4 | Open Source PaaS |  &#9746;
 5 | CI/CD with Cloud Native Tooling |  &#9744;
 
